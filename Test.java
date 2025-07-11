@@ -4,6 +4,6 @@
 */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("开始开发git ");
+        System.out.println("开始开发git 哈哈哈");
     }
 }
